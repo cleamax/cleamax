@@ -11,8 +11,8 @@ My journey in IT and application development has sparked a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/cleamax/SOC-Automation">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/cleamax/SOC-Automation">Detection Lab</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/cleamax/SOC-Automation">SOC Automation Lab</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/cleamax/SOC-Automation">SOC Automation LAb Lab</a> |
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/cleamax/SOC-Automation">SOC Automation Lab</a> |
 | Incident Response Planning and Execution      | <a href="https://github.com/cleamax/SOC-Automation">SOC Automation Lab</a> |
 | Case Management with TheHive                  | <a href="https://github.com/cleamax/SOC-Automation">SOC Automation Lab</a> |
