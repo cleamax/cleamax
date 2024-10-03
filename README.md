@@ -11,17 +11,17 @@ My journey in IT and application development has sparked a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a> |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab         |
-| Incident Response Planning and Execution      | SOC Automation Lab         |
-| Case Management with TheHive                  | SOC Automation Lab         |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab         |
-| **Smart Contract Development**                | <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a> |
-| **ERC20 and ERC721 Standards**                | <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a> |
-| **Blockchain Interaction**                    | <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a> |
-| **Using OpenZeppelin for Secure Contracts**   | <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a> |
-| **Bug Bounty Program Development**            | <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/cleamax/SOC-Automation">Detection Lab</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/cleamax/SOC-Automation">Detection Lab</a> |
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/cleamax/SOC-Automation">SOC Automation Lab</a> |
+| Incident Response Planning and Execution      | <a href="https://github.com/cleamax/SOC-Automation">SOC Automation Lab</a> |
+| Case Management with TheHive                  | <a href="https://github.com/cleamax/SOC-Automation">SOC Automation Lab</a> |
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/cleamax/SOC-Automation">SOC Automation Lab</a> |
+| **Smart Contract Development**                | <a href="https://github.com/cleamax/FirstKryptoProject">SecureToken and NFT Marketplace</a> |
+| **ERC20 and ERC721 Standards**                | <a href="https://github.com/cleamax/FirstKryptoProject">SecureToken and NFT Marketplace</a> |
+| **Blockchain Interaction**                    | <a href="https://github.com/cleamax/FirstKryptoProject">SecureToken and NFT Marketplace</a> |
+| **Using OpenZeppelin for Secure Contracts**   | <a href="https://github.com/cleamax/FirstKryptoProject">SecureToken and NFT Marketplace</a> |
+| **Bug Bounty Program Development**            | <a href="https://github.com/cleamax/FirstKryptoProject">SecureToken and NFT Marketplace</a> |
 
 ## Tools
 
