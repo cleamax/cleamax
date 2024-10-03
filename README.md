@@ -3,25 +3,27 @@
 
 I'm a 20-year-old currently training as an IT specialist in application development at Bosch.
 
-
 ## Objective
 
 My journey in IT and application development has sparked a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a> |
+| Security Automation with Shuffle SOAR         | SOC Automation Lab         |
+| Incident Response Planning and Execution      | SOC Automation Lab         |
+| Case Management with TheHive                  | SOC Automation Lab         |
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab         |
+| **Smart Contract Development**                | <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a> |
+| **ERC20 and ERC721 Standards**                | <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a> |
+| **Blockchain Interaction**                    | <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a> |
+| **Using OpenZeppelin for Secure Contracts**   | <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a> |
+| **Bug Bounty Program Development**            | <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a> |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -43,16 +45,21 @@ My journey in IT and application development has sparked a passion for cybersecu
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### Blockchain and Smart Contract Development
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Solidity-363636?&style=for-the-badge&logo=solidity&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenZeppelin-4C8BF5?&style=for-the-badge&logo=openzeppelin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Remix-1A8C63?&style=for-the-badge&logo=remix&logoColor=white" />
+</div>
+
+## Certifications
+
+<div>
+
 </div>
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- <a href="https://github.com/your-repo-link">SecureToken and NFT Marketplace</a>
+
